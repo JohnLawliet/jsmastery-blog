@@ -1,6 +1,6 @@
 import { tw } from "twind"
 import moment from 'moment'
-import Link from 'next/Link'
+import Link from 'next/link'
 
 const PostCard = ({post}) => {
     return (
